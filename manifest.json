@@ -14,7 +14,7 @@
     ] ,
     "background":{
         "service_worker": "scripts/service.js",
-        "type": module
+        "type": "module"
     },
     "options_ui": {
         "page": "settings.html",
