@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'https://esm.sh/react';
 import { trackedEvent } from './tracker';
 import { createDivWithClassAndText } from './helpfulHTML';
 
