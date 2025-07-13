@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'https://esm.sh/react';
 
 export function OptionsForm() {
   const [username, setUsername] = useState('');
