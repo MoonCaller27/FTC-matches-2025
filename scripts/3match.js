@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'https://esm.sh/react';
 import { createDivWithClassAndText, gimmeADivider, createTeamDiv } from '../helpers';
 
 export default function ThreeTeamMatch({
