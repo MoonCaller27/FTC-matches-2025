@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'https://esm.sh/react';
 export function createDivWithClassAndText({ classN, text }) {
   return <div className={classN}>{text}</div>;
 }
