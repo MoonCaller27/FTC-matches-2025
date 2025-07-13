@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from 'https://esm.sh/react';
 
 export default function Extension() {
   const [team, setTeam] = useState('');
