@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'https://esm.sh/react';
 import { twoTeamMatch } from './match';
 import { threeTeamMatch } from './3match';
 export function useTrackedEvent(matchSchedule, matchResultData, team, teamSchedule) {
