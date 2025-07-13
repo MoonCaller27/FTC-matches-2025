@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import React, { useEffect } from 'https://esm.sh/react';
 
 export function ChromeMessageListener() {
   useEffect(() => {
